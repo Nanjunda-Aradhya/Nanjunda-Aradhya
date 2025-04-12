@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nanjunda-Aradhya
-- 👀 I’m interested in devops using AI and other upcoming technologies
+- 👀 I’m interested in Full Stack Web Development using AI and other upcoming technologies
 - 🌱 I’m currently learning git 
   
 
